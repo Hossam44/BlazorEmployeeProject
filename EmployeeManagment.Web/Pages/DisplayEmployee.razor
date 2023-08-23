@@ -1,0 +1,27 @@
+﻿@inherits DisplayEmployeeBase
+
+@if (employee != null)
+{
+    <div class="card m-3" style="min-width: 18rem; max-width:30.5%;">
+        <div class="card-header">
+            <input type="checkbox" @onchange="chekBoexChanged">
+            <h3>@employee.FirstName @employee.LastName</h3>
+        </div>
+        <img class="card-img-top imageThumbnail" src="@employee.PhotoPath" />
+        @if (checkpoint)
+        {
+            <div class="card-footer text-center">
+                <a href=@($"details/{employee.Id}") class="btn btn-primary m-1">View</a>
+
+                <a href=@($"/EditEmployee/{employee.Id}") class="btn btn-primary m-1">Edit</a>
+
+                <a href="#" class="btn btn-danger m-1">Delete</a>
+            </div>
+        }
+
+    </div>
+}
+else
+{
+    <div class="spinner"></div>
+}

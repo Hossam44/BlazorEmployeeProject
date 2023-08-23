@@ -1,0 +1,17 @@
+C:\Projects\BlazorEmployeeProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Projects\BlazorEmployeeProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BlazorEmployeeProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Projects\BlazorEmployeeProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Projects\BlazorEmployeeProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Projects\BlazorEmployeeProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Projects\BlazorEmployeeProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Projects\BlazorEmployeeProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Projects\BlazorEmployeeProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Projects\BlazorEmployeeProject\DataAccessLayer\bin\Debug\net6.0\EmployeeManagment.Models.dll
+C:\Projects\BlazorEmployeeProject\DataAccessLayer\bin\Debug\net6.0\EmployeeManagment.Models.pdb
+C:\Projects\BlazorEmployeeProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Projects\BlazorEmployeeProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Projects\BlazorEmployeeProject\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Projects\BlazorEmployeeProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Projects\BlazorEmployeeProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Projects\BlazorEmployeeProject\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

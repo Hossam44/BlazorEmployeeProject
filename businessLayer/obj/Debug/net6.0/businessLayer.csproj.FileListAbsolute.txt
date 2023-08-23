@@ -1,0 +1,17 @@
+C:\Projects\BlazorEmployeeProject\businessLayer\obj\Debug\net6.0\businessLayer.csproj.AssemblyReference.cache
+C:\Projects\BlazorEmployeeProject\businessLayer\obj\Debug\net6.0\businessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BlazorEmployeeProject\businessLayer\obj\Debug\net6.0\businessLayer.AssemblyInfoInputs.cache
+C:\Projects\BlazorEmployeeProject\businessLayer\obj\Debug\net6.0\businessLayer.AssemblyInfo.cs
+C:\Projects\BlazorEmployeeProject\businessLayer\obj\Debug\net6.0\businessLayer.csproj.CoreCompileInputs.cache
+C:\Projects\BlazorEmployeeProject\businessLayer\bin\Debug\net6.0\businessLayer.deps.json
+C:\Projects\BlazorEmployeeProject\businessLayer\bin\Debug\net6.0\businessLayer.dll
+C:\Projects\BlazorEmployeeProject\businessLayer\bin\Debug\net6.0\businessLayer.pdb
+C:\Projects\BlazorEmployeeProject\businessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Projects\BlazorEmployeeProject\businessLayer\bin\Debug\net6.0\EmployeeManagment.Models.dll
+C:\Projects\BlazorEmployeeProject\businessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Projects\BlazorEmployeeProject\businessLayer\bin\Debug\net6.0\EmployeeManagment.Models.pdb
+C:\Projects\BlazorEmployeeProject\businessLayer\obj\Debug\net6.0\businessLayer.csproj.CopyComplete
+C:\Projects\BlazorEmployeeProject\businessLayer\obj\Debug\net6.0\businessLayer.dll
+C:\Projects\BlazorEmployeeProject\businessLayer\obj\Debug\net6.0\refint\businessLayer.dll
+C:\Projects\BlazorEmployeeProject\businessLayer\obj\Debug\net6.0\businessLayer.pdb
+C:\Projects\BlazorEmployeeProject\businessLayer\obj\Debug\net6.0\ref\businessLayer.dll

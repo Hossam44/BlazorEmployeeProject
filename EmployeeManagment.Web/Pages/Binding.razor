@@ -1,0 +1,11 @@
+﻿@page "/bind"
+@inherits BindingBase
+
+<h3>Binding</h3>
+
+
+<b>Name :</b> <input value="@Name" @onchange="@(e => { Name = e.Value.ToString(); })" />
+
+<b>Name :</b> <input @bind="Name" @bind:event="oninput" />
+
+<b>@Name</b>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EmployeeManagment.Web/1.0.0": {
+        "dependencies": {
+          "EmployeeManagment.Models": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeManagment.Web.dll": {}
+        }
+      },
+      "EmployeeManagment.Models/1.0.0": {
+        "runtime": {
+          "EmployeeManagment.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeManagment.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeManagment.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

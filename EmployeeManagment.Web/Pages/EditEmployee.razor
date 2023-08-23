@@ -1,0 +1,14 @@
+﻿@page "/EditEmployee/{EmployeeId}"
+@using EmployeeManagment.Models;
+
+<h3>EditEmployee</h3>
+@inherits EditEmployeeBase
+
+@if (Employee==null || Departments == null)
+{
+    <div class="spinner"></div>
+}
+else
+{
+    <FormEmployeeComponent Employee="Employee" Departments="Departments" TypeOfOperation="Update"></FormEmployeeComponent>
+}
